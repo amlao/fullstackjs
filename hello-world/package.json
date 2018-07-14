@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/amlao/fullstackjs/issues"
   },
-  "homepage": "https://github.com/amlao/fullstackjs#readme"
+  "homepage": "https://github.com/amlao/fullstackjs#readme",
+  "dependencies": {
+    "fsjshw": "^1.0.0"
+  }
 }
