@@ -1,0 +1,25 @@
+{
+  "name": "fsjshw",
+  "version": "1.0.0",
+  "description": "full stack js ch 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amlao/fullstackjs.git"
+  },
+  "keywords": [
+    "full",
+    "stack",
+    "js",
+    "javascript"
+  ],
+  "author": "Anthony la'O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amlao/fullstackjs/issues"
+  },
+  "homepage": "https://github.com/amlao/fullstackjs#readme"
+}
