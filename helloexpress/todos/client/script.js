@@ -1,3 +1,5 @@
+var $ = require('jquery');
+
 alert('Hello Todos!')
 
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -14,3 +16,9 @@ function clickHandler() {
     this.parentNode.className = '';
   }
 }
+
+$(function() {
+  $('input').on('click', function() {
+    $(this).parent().toggleClass('checked');
+  });
+});
